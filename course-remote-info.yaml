@@ -1,0 +1,78 @@
+hyperskill_project:
+  id: 281
+  ide_files: https://cogniterra.org/media/attachments/lesson/26905/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: "Mon, 16 Sep 2024 19:59:55 UTC"
+stages:
+  - id: 1426
+    step: 22320
+    is_completed: true
+  - id: 1427
+    step: 22321
+    is_completed: true
+  - id: 1428
+    step: 22322
+    is_completed: false
+topics:
+  0:
+    - title: Introduction to Go
+      theory_id: 17073
+    - title: Comments
+      theory_id: 16689
+    - title: Variables and constants
+      theory_id: 14468
+    - title: Pointers
+      theory_id: 15463
+    - title: Control statements
+      theory_id: 16235
+    - title: Loops
+      theory_id: 14707
+    - title: Primitive types
+      theory_id: 16871
+    - title: Type conversion and overflow
+      theory_id: 18710
+    - title: Packages
+      theory_id: 15906
+    - title: Arithmetic operations
+      theory_id: 16679
+    - title: Functions
+      theory_id: 16388
+    - title: GoLand
+      theory_id: 19072
+    - title: Input/Output
+      theory_id: 14527
+    - title: Arrays
+      theory_id: 14871
+    - title: Slices
+      theory_id: 15656
+    - title: Working with slices
+      theory_id: 15935
+    - title: Strings
+      theory_id: 15412
+    - title: String formatting
+      theory_id: 16860
+    - title: Introduction to logging
+      theory_id: 5538
+    - title: Errors
+      theory_id: 16774
+    - title: Maps
+      theory_id: 16999
+    - title: Arithmetic expressions in programming
+      theory_id: 17289
+    - title: Advanced Input
+      theory_id: 18567
+    - title: Generating random numbers and strings
+      theory_id: 28497
+    - title: Operations with maps
+      theory_id: 17206
+  1:
+    - title: Structs
+      theory_id: 17490
+    - title: Methods
+      theory_id: 17739
+    - title: Public and private scopes
+      theory_id: 17514
+  2:
+    - title: Working with time
+      theory_id: 19297
